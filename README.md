@@ -128,11 +128,6 @@ ML pipeline for feature engineering and hyperparameter tuning — comparing prep
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamarthP7704&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=3fb950&icon_color=58a6ff&bg_color=0d1117&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamarthP7704&layout=compact&theme=github_dark&hide_border=true&title_color=3fb950&bg_color=0d1117&langs_count=6"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=SamarthP7704&theme=github-dark-blue&hide_border=true&fire=3fb950&ring=58a6ff&currStreakLabel=3fb950"/>
 </p>
 
