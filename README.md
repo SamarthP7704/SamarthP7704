@@ -29,94 +29,68 @@
 
 ---
 
-### 👨‍💻 &nbsp;About Me
+## 👨‍💻 About Me
 
 I'm a senior CS student at the **University of Cincinnati** with 2+ years of experience as a full-stack developer. I've completed co-ops at **Bendix, Cummins, and TOPS Technologies** — shipping production software across AI, automation, and enterprise web.
 
 I specialize in building **intelligent systems** — AI-powered automation pipelines, full-stack web apps, and ML integrations. I'm equally comfortable designing the backend schema and the pixel-perfect frontend.
 
-> *I'm drawn to problems where software can eliminate real human toil. At Bendix, I built systems that replaced hours of manual bill processing with automated AI pipelines.*
+> *"I'm drawn to problems where software can eliminate real human toil. At Bendix, I built systems that replaced hours of manual bill processing with automated AI pipelines."*
 
 ---
 
-<details><summary>💼 Experience</summary>
-<br>
+## 💼 Experience
 
-<table width="100%">
-  <tr>
-    <th>Role</th>
-    <th>Company</th>
-    <th>Period</th>
-    <th>Highlights</th>
-  </tr>
-  <tr>
-    <td>🟢 <strong>AI Developer Co-Op</strong></td>
-    <td>Bendix LLC · Avon, OH</td>
-    <td>Jan 2026 – Present</td>
-    <td>Built end-to-end Utility Bill Automation System (electric, gas & water) · UiPath RPA · Power Automate AI document extraction · SQL Server with duplicate detection · Power Apps dashboards · Office Scripts Excel reporting for Cority compliance</td>
-  </tr>
-  <tr>
-    <td>🔵 <strong>Web Developer Co-Op</strong></td>
-    <td>Cummins Inc. · Columbus, IN</td>
-    <td>Jan 2024 – Jul 2024 · Jan 2025 – Apr 2025</td>
-    <td>Led enhancement of Opigno LMS · reduced user-reported issues 30% · integrated bpmn.io for visual diagrams · built 50+ Tailwind CSS + Material UI components · launched internal training portal · managed Azure DevOps CI/CD with Agile ceremonies</td>
-  </tr>
-  <tr>
-    <td>🟣 <strong>Teaching Assistant</strong></td>
-    <td>Univ. of Cincinnati</td>
-    <td>Aug 2023 – Present</td>
-    <td>Academic support for 500+ students · guided 60+ teams in ethical principles and algorithmic thinking · weekly tutoring covering Python, MATLAB, and LabVIEW</td>
-  </tr>
-  <tr>
-    <td>🟠 <strong>Software / Web Intern</strong></td>
-    <td>TOPS Technologies</td>
-    <td>May – Jul 2023</td>
-    <td>Built Django recipe app with auth, data storage & Razorpay payments · automated web label printing cutting operation time 60% · optimized 25+ Tableau dashboards migrating to cloud-based data sources</td>
-  </tr>
-</table>
+| | Role | Company | Period |
+|---|---|---|---|
+| 🟢 | **AI Developer Co-Op** | Bendix LLC · Avon, OH | Jan 2026 – Present |
+| 🔵 | **Web Developer Co-Op** | Cummins Inc. · Columbus, IN | Jan 2024 – Jul 2024 · Jan 2025 – Apr 2025 |
+| 🟣 | **Teaching Assistant** | University of Cincinnati | Aug 2023 – Present |
+| 🟠 | **Software / Web Intern** | TOPS Technologies | May 2023 – Jul 2023 |
 
-</details>
+**🟢 AI Developer Co-Op — Bendix LLC** *(Jan 2026 – Present)*
+Built an end-to-end **Utility Bill Automation System** processing electric, gas & water bills across facilities. Integrated UiPath RPA, AI-based document extraction via Power Automate, SQL Server backend with duplicate detection, Power Apps dashboards, and Office Scripts Excel reporting for Cority compliance.
+`Power Apps` `Power Automate` `UiPath` `SQL Server` `Office Scripts` `SharePoint` `React` `PAC CLI`
 
-<details><summary>🚀 Featured Projects</summary>
-<br>
+**🔵 Web Developer Co-Op — Cummins Inc.** *(Jan 2024 – Jul 2024 · Jan 2025 – Apr 2025)*
+Led enhancement of Opigno LMS reducing user-reported issues **30%**. Integrated bpmn.io for visual diagrams, built **50+ Tailwind CSS + Material UI components**, launched internal training portal, managed Azure DevOps CI/CD pipelines with Agile ceremonies.
+`Drupal` `Tailwind CSS` `Material UI` `Azure DevOps` `bpmn.io` `Agile`
 
-<table width="100%">
-  <tr>
-    <th>Project</th>
-    <th>Description</th>
-    <th>Stack</th>
-  </tr>
-  <tr>
-    <td>📈 <strong><a href="https://github.com/SamarthP7704">TradeIO — AI Trading Journal</a></strong></td>
-    <td>Behavior-focused trading journal tracking execution, psychology, and performance to show exactly where traders make and lose money.</td>
-    <td>Next.js · React · TypeScript · PostgreSQL · Drizzle ORM · Clerk · Cloudflare R2 · Claude API</td>
-  </tr>
-  <tr>
-    <td>🎓 <strong><a href="https://github.com/SamarthP7704">UC DoubtClear</a></strong></td>
-    <td>AI-powered Q&A platform for UC students — GPT-4o agents with memory & retrieval, Supabase RLS, IAM, and Langfuse tracing.</td>
-    <td>React · Vite · LangChain · GPT-4o · Supabase · Tailwind · Langfuse</td>
-  </tr>
-  <tr>
-    <td>📄 <strong><a href="https://github.com/SamarthP7704">PDFChat — SaaS AI PDF Assistant</a></strong></td>
-    <td>Full-stack RAG assistant in Next.js for semantic Q&A on uploaded PDFs — Clerk auth, Stripe billing, and vector search.</td>
-    <td>Next.js · Vercel AI SDK · RAG · Clerk · Stripe · GPT-4 · Claude 3</td>
-  </tr>
-  <tr>
-    <td>📰 <strong><a href="https://github.com/SamarthP7704">AI News Aggregator</a></strong></td>
-    <td>Full-stack app scraping & NLP-categorizing news from multiple sources using BeautifulSoup and NLTK/Sumy summarization.</td>
-    <td>React · Flask · Python · BeautifulSoup · NLTK · Sumy · Axios</td>
-  </tr>
-  <tr>
-    <td>🧠 <strong><a href="https://github.com/SamarthP7704">Featurisation & Model Tuning</a></strong></td>
-    <td>ML pipeline for feature engineering and hyperparameter tuning — comparing preprocessing strategies and model performance across classification tasks.</td>
-    <td>Python · Scikit-learn · Pandas · NumPy · Matplotlib · Jupyter</td>
-  </tr>
-</table>
+**🟣 Teaching Assistant — University of Cincinnati** *(Aug 2023 – Present)*
+Provide academic support to **500+ students** through one-on-one sessions. Guided **60+ teams** in ethical principles and algorithmic thinking. Host weekly tutoring sessions covering Python, MATLAB, and LabVIEW.
+`Python` `MATLAB` `LabVIEW` `Algorithms`
 
-</details>
+**🟠 Software / Web Intern — TOPS Technologies** *(May 2023 – Jul 2023)*
+Built a recipe app with Django (auth, data storage, payments via Razorpay) in 3 months. Automated web label printing reducing operation time **60%**. Optimized 25+ Tableau dashboards by migrating to cloud-based data sources.
+`Django` `Python` `Razorpay` `Tableau` `Automation`
 
-<details><summary>🛠 Tech Stack</summary>
-<br>
+---
+
+## 🚀 Featured Projects
+
+**📈 [TradeIO — AI Trading Journal](https://github.com/SamarthP7704)** *(2026)*
+Behavior-focused trading journal that tracks execution, psychology, and performance to show exactly where traders make and lose money.
+`Next.js` `React` `TypeScript` `PostgreSQL` `Drizzle ORM` `Clerk` `Cloudflare R2` `Claude API`
+
+**🎓 [UC DoubtClear](https://github.com/SamarthP7704)** *(2025)*
+AI-powered Q&A platform for UC students with IAM, Supabase RLS, Langfuse tracing, and GPT-4o agents with memory & retrieval.
+`React` `Vite` `Supabase` `Tailwind CSS` `LangChain` `GPT-4o` `Langfuse`
+
+**📄 [PDFChat — SaaS AI PDF Assistant](https://github.com/SamarthP7704)** *(2025)*
+Full-stack RAG assistant in Next.js enabling semantic Q&A on uploaded PDFs with Clerk auth, Stripe billing, and vector search.
+`Next.js` `Vercel AI SDK` `RAG` `Clerk` `Stripe` `GPT-4` `Claude 3`
+
+**📰 [AI News Aggregator](https://github.com/SamarthP7704)** *(2024)*
+Full-stack web app scraping & categorizing news from multiple sources using NLP, BeautifulSoup, and NLTK/Sumy summarization.
+`React` `Flask` `Python` `BeautifulSoup` `NLTK` `Sumy` `Axios`
+
+**🧠 [Featurisation & Model Tuning](https://github.com/SamarthP7704)** *(2025)*
+ML pipeline for feature engineering and hyperparameter tuning — comparing preprocessing strategies and model performance across classification tasks.
+`Python` `Scikit-learn` `Pandas` `NumPy` `Matplotlib` `Jupyter`
+
+---
+
+## 🛠 Tech Stack
 
 **Frontend**
 
@@ -143,7 +117,6 @@ I specialize in building **intelligent systems** — AI-powered automation pipel
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Office Scripts](https://img.shields.io/badge/Office_Scripts-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 **Cloud & DevOps**
 
@@ -154,11 +127,9 @@ I specialize in building **intelligent systems** — AI-powered automation pipel
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
 
-</details>
-
 ---
 
-### 📊 &nbsp;GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamarthP7704&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=3fb950&icon_color=58a6ff&bg_color=0d1117&include_all_commits=true"/>
@@ -174,10 +145,6 @@ I specialize in building **intelligent systems** — AI-powered automation pipel
 </p>
 
 ---
-
-> *"I'm drawn to problems where software can eliminate real human toil."*
-
-<br/>
 
 <p align="center">
   <b>Thanks for stopping by! Let's build something intelligent together. 🚀</b>
