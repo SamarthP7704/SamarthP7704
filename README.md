@@ -15,11 +15,11 @@
 
 ### 🤖 &nbsp;AI Developer & Full-Stack Engineer
 
-- 🏢 &nbsp;Building **AI automation** @ [Bendix LLC](https://www.bendix.com/) — end-to-end utility bill processing with UiPath, Power Automate & GPT
+- 🏢 &nbsp;Building **AI automation** @ [Bendix LLC](https://www.bendix.com/) — end-to-end utility bill processing with UiPath, Power Automate, Co-pilot Studios
 - 🎓 &nbsp;**CS Senior** @ University of Cincinnati — May 2027
-- 🧠 &nbsp;Specializing in **LangChain · RAG · Power Platform · UiPath RPA**
+- 🧠 &nbsp;Specializing in **GENAI · RAG · Power Platform · UiPath RPA**
 - ⚡ &nbsp;Full-stack with **React · Next.js · Python · FastAPI · TypeScript**
-- 🌱 &nbsp;Exploring **LangGraph agents · Rust · Copilot Studio**
+- 🌱 &nbsp;Exploring **Scikit-learn · LangChain · PyTorch**
 - 💼 &nbsp;**5 co-ops · 4 companies · 2+ years** industry experience
 - 📫 &nbsp;[prajapsr@mail.uc.edu](mailto:prajapsr@mail.uc.edu)
 - 📍 &nbsp;Cincinnati, OH — Remote-friendly
@@ -67,10 +67,6 @@ Built a recipe app with Django (auth, data storage, payments via Razorpay) in 3 
 ---
 
 ## 🚀 Featured Projects
-
-**📈 [TradeIO — AI Trading Journal](https://github.com/SamarthP7704)** *(2026)*
-Behavior-focused trading journal that tracks execution, psychology, and performance to show exactly where traders make and lose money.
-`Next.js` `React` `TypeScript` `PostgreSQL` `Drizzle ORM` `Clerk` `Cloudflare R2` `Claude API`
 
 **🎓 [UC DoubtClear](https://github.com/SamarthP7704)** *(2025)*
 AI-powered Q&A platform for UC students with IAM, Supabase RLS, Langfuse tracing, and GPT-4o agents with memory & retrieval.
