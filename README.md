@@ -70,21 +70,29 @@ Mentor **500+ students** through labs, tutoring sessions, and office hours cover
 
 ## 🚀 Featured Projects
 
-**🎓 [UC DoubtClear](https://github.com/SamarthP7704)** *(2025)*
-AI-powered Q&A platform for UC students with IAM, Supabase RLS, Langfuse tracing, and GPT-4o agents with memory & retrieval.
-`React` `Vite` `Supabase` `Tailwind CSS` `LangChain` `GPT-4o` `Langfuse`
+**🎥 [VidRAG — Hybrid Retrieval Video Intelligence Platform](https://github.com/SamarthP7704)** *(2026)*
 
-**📄 [PDFChat — SaaS AI PDF Assistant](https://github.com/SamarthP7704)** *(2025)*
-Full-stack RAG assistant in Next.js enabling semantic Q&A on uploaded PDFs with Clerk auth, Stripe billing, and vector search.
-`Next.js` `Vercel AI SDK` `RAG` `Clerk` `Stripe` `GPT-4` `Claude 3`
+RAG-powered video intelligence platform transforming YouTube videos and uploaded media into timestamped notes, structured summaries, and grounded conversational AI through hybrid retrieval pipelines.
 
-**📰 [AI News Aggregator](https://github.com/SamarthP7704)** *(2024)*
-Full-stack web app scraping & categorizing news from multiple sources using NLP, BeautifulSoup, and NLTK/Sumy summarization.
-`React` `Flask` `Python` `BeautifulSoup` `NLTK` `Sumy` `Axios`
+`Python` `FastAPI` `LangGraph` `Qdrant` `BM25` `Claude` `Langfuse` `RAGAS`
 
-**🧠 [Featurisation & Model Tuning](https://github.com/SamarthP7704)** *(2025)*
-ML pipeline for feature engineering and hyperparameter tuning — comparing preprocessing strategies and model performance across classification tasks.
-`Python` `Scikit-learn` `Pandas` `NumPy` `Matplotlib` `Jupyter`
+**🤖 [TaskOrbit — Distributed Browser Automation Platform](https://github.com/SamarthP7704)** *(2026)*
+
+Distributed browser automation platform supporting replayable enterprise workflows with asynchronous execution, retry recovery, deterministic replay, and browser orchestration.
+
+`FastAPI` `Playwright` `Redis` `Docker` `PostgreSQL` `WebSockets` `TypeScript`
+
+**🥗 [PrepPAL — AI Nutrition Assistant](https://github.com/ij5204/PrepPAL)** *(2026)*
+
+AI-powered nutrition platform delivering personalized meal planning, pantry intelligence, grocery automation, and calorie tracking through intelligent recommendation pipelines.
+
+`React Native` `TypeScript` `Supabase` `PostgreSQL` `Claude AI` `Edge Functions` `Expo`
+
+**🎓 [UC DoubtClear](https://github.com/SamarthP7704/uc_doubtclear)** *(2025)*
+
+AI-assisted collaborative learning platform featuring secure peer Q&A, realtime collaboration, semantic retrieval, and GPT-powered tutoring with persistent conversations.
+
+`React` `Vite` `Supabase` `Tailwind CSS` `GPT-4o` `Langfuse` `PostgreSQL`
 
 ---
 
