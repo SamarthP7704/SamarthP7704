@@ -49,15 +49,21 @@ I specialize in building **intelligent systems** — AI-powered automation pipel
 | 🟠 | **Software / Web Intern** | TOPS Technologies | May 2023 – Jul 2023 |
 
 **🟢 AI Engineer Co-Op — Bendix Commercial Vehicle Systems LLC** *(Jan 2026 – Present)*
+
 Developing **enterprise AI systems and automation platforms**, including VisionAgent, a multi-agent AI assistant serving 500+ employees, retrieval-augmented document intelligence, and global utility automation processing 1000+ monthly bills across 50+ facilities.
+
 `Azure AI Foundry` `Azure Functions` `Power Platform` `Power Automate` `UiPath` `React` `SharePoint` `LLMs`
 
 **🔵 Web Developer Co-Op — Cummins Inc.** *(Jan 2024 – Jul 2024 · Jan 2025 – Apr 2025)*
+
 Improved enterprise LMS reliability by **30%**, integrated interactive workflow visualization into 10+ Drupal modules, developed 50+ reusable UI components, and launched internal learning platforms using modern Agile development practices.
+
 `Drupal` `Tailwind CSS` `Material UI` `Azure DevOps` `bpmn.io` `Agile`
 
 **🟣 Teaching Assistant — University of Cincinnati** *(Aug 2023 – Present)*
+
 Mentor **500+ students** through labs, tutoring sessions, and office hours covering EV3 robotics, Python, MATLAB, LabVIEW, debugging, and foundational computer science concepts.
+
 `Python` `MATLAB` `LabVIEW` `Algorithms`
 
 ---
