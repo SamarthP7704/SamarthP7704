@@ -15,7 +15,7 @@
 
 ### 🤖 &nbsp;AI Developer & Full-Stack Engineer
 
-- 🏢 &nbsp;Building **AI automation** @ [Bendix LLC](https://www.bendix.com/) — end-to-end utility bill processing with UiPath, Power Automate, Co-pilot Studios
+- 🏢 &nbsp;Building **enterprise AI platforms** @ [Bendix LLC](https://www.bendix.com/) — multi-agent AI VisionAgent, Azure AI Foundry, intelligent automation & cloud-native workflows
 - 🎓 &nbsp;**CS Senior** @ University of Cincinnati — May 2027
 - 🧠 &nbsp;Specializing in **GENAI · RAG · Power Platform · UiPath RPA**
 - ⚡ &nbsp;Full-stack with **React · Next.js · Python · FastAPI · TypeScript**
@@ -48,21 +48,17 @@ I specialize in building **intelligent systems** — AI-powered automation pipel
 | 🟣 | **Teaching Assistant** | University of Cincinnati | Aug 2023 – Present |
 | 🟠 | **Software / Web Intern** | TOPS Technologies | May 2023 – Jul 2023 |
 
-**🟢 AI Developer Co-Op — Bendix LLC** *(Jan 2026 – Present)*
-Built an end-to-end **Utility Bill Automation System** processing electric, gas & water bills across facilities. Integrated UiPath RPA, AI-based document extraction via Power Automate, SQL Server backend with duplicate detection, Power Apps dashboards, and Office Scripts Excel reporting for Cority compliance.
-`Power Apps` `Power Automate` `UiPath` `SQL Server` `Office Scripts` `SharePoint` `React` `PAC CLI`
+**🟢 AI Engineer Co-Op — Bendix Commercial Vehicle Systems LLC** *(Jan 2026 – Present)*
+Developing **enterprise AI systems and automation platforms**, including VisionAgent, a multi-agent AI assistant serving 500+ employees, retrieval-augmented document intelligence, and global utility automation processing 1000+ monthly bills across 50+ facilities.
+`Azure AI Foundry` `Azure Functions` `Power Platform` `Power Automate` `UiPath` `React` `SharePoint` `LLMs`
 
 **🔵 Web Developer Co-Op — Cummins Inc.** *(Jan 2024 – Jul 2024 · Jan 2025 – Apr 2025)*
-Led enhancement of Opigno LMS reducing user-reported issues **30%**. Integrated bpmn.io for visual diagrams, built **50+ Tailwind CSS + Material UI components**, launched internal training portal, managed Azure DevOps CI/CD pipelines with Agile ceremonies.
+Improved enterprise LMS reliability by **30%**, integrated interactive workflow visualization into 10+ Drupal modules, developed 50+ reusable UI components, and launched internal learning platforms using modern Agile development practices.
 `Drupal` `Tailwind CSS` `Material UI` `Azure DevOps` `bpmn.io` `Agile`
 
 **🟣 Teaching Assistant — University of Cincinnati** *(Aug 2023 – Present)*
-Provide academic support to **500+ students** through one-on-one sessions. Guided **60+ teams** in ethical principles and algorithmic thinking. Host weekly tutoring sessions covering Python, MATLAB, and LabVIEW.
+Mentor **500+ students** through labs, tutoring sessions, and office hours covering EV3 robotics, Python, MATLAB, LabVIEW, debugging, and foundational computer science concepts.
 `Python` `MATLAB` `LabVIEW` `Algorithms`
-
-**🟠 Software / Web Intern — TOPS Technologies** *(May 2023 – Jul 2023)*
-Built a recipe app with Django (auth, data storage, payments via Razorpay) in 3 months. Automated web label printing reducing operation time **60%**. Optimized 25+ Tableau dashboards by migrating to cloud-based data sources.
-`Django` `Python` `Razorpay` `Tableau` `Automation`
 
 ---
 
